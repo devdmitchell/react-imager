@@ -1,13 +1,13 @@
 import React, { useState } from 'react'
-import Display from './Display'
-import Thumbnail from './Thumbnail'
+import Display from './Display.jsx'
+import Thumbnail from './Thumbnail.jsx'
 
 function Imager() {
     const imagePaths = [
         'images/kobeAllEyesOnMe.jpg',
         'images/KobeAround.jpg',
         'images/kobeDunk.jpg',
-        'images/handsOnKnees.jpg',
+        'images/kobeHandsOnKnees.jpg',
         'images/kobeInThought.jpg',
         'images/kobeInUniformOnCourt.jpg',
         'images/kobeJerseyInMouth.jpg',

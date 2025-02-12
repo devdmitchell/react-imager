@@ -1,5 +1,5 @@
 import React from 'react'
-import Imager from './components/Imager'
+import Imager from './components/Imager.jsx'
 
 function App() {
   return (
